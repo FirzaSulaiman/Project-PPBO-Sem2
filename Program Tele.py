@@ -18,7 +18,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 app = Flask(__name__)
 
-TELEGRAM_TOKEN = "8092961815:AAFJiPb6gMjBFeDig9EF0Hy4gKjEH87oV6E"
+TELEGRAM_TOKEN = "API Token Here"
 
 DB_NAME = 'energi.db'
 DB_TIMEOUT = 10
